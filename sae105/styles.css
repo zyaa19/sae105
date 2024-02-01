@@ -1,0 +1,283 @@
+/* Portfolio Artur
+/* atfmrmc.com */
+
+*{
+  box-sizing: border-box;
+}
+
+html{
+  background-color: #FFFFFF;
+}
+
+body{
+  background-color: #e2e2e2;
+padding: 0;
+  width: 1080px;
+  margin: 0 auto;
+}
+
+/*HEADER */
+/* Animation */
+
+/* le block conteneur */
+
+
+/* le bloc défilant */
+.defile > :first-child {
+  display: inline-block;                /* modèle de boîte en ligne */
+  padding-right: 1em;                   /* un peu d'espace pour la transition */
+  padding-left: 100%;                   /* placement à droite du conteneur */
+  white-space: nowrap;                  /* pas de passage à la ligne */
+  animation: defilement-rtl 40s infinite linear;
+}
+@keyframes defilement-rtl {
+  0% {
+    transform: translate3d(0,0,0);      /* position initiale à droite */
+  }
+  100% {
+    transform: translate3d(-100%,0,0);  /* position finale à gauche */
+  }
+}
+
+nav .active a{
+  background-color: #2C4A98;
+  color: #ffffff;
+  border-radius: 15px;
+
+}
+ 
+/* Barre de menu */
+
+ul{
+  margin-top: 0px;
+  display: flex;
+  list-style-type: none;
+  text-align: center;
+  margin-bottom: 0px;
+  padding: 7px;
+  overflow: hidden;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  width: 100%;
+  justify-content: space-around;
+}
+
+li {
+  float: left;
+}
+
+li a{ 
+  color: black;
+  display: block;
+  text-align: center;
+  padding: 7px 21px;
+}
+
+/* INDEX */
+
+.magazine{
+  display: flex;
+  margin-left: 50px;
+  margin-top: -140px;
+  width: 500px; 
+}
+
+.description{
+  margin-right: 70px;
+  margin-top: 160px;
+  Display : flex;
+  Justify-content: right;
+  color: #0f204b;
+  font-size: 60px;
+  font-family:'Times New Roman', Times, serif;
+}
+
+img{
+  display: flex;
+  flex-wrap: wrap;
+  width:300px;
+}
+
+.block{
+  background-color: #e0e0e0;
+}
+
+
+/* DONNEES /*
+/* tableau */
+.table.dataTable{
+  text-align: left;
+}
+
+/*main{   
+    width: 100%;
+    margin left: 10px;
+    clear: both;
+    border-collapse: separate;
+    border-spacing: 0;
+}*/
+
+main{
+
+  width: 1080px;
+  margin: 0 auto;
+  clear: both;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.table.dataTable{
+  text-align: left;
+}
+
+
+footer{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: px;
+
+}
+
+*
+/*CONTACT*/
+
+form{
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column; 
+  border-radius: 30px;
+  padding: 20px;
+  background-color: #bebebe;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-transform : uppercase;
+}
+
+#en-tete{
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+#nom{
+  width: 100%;
+
+}
+
+#prenom{
+  width: 100%;
+}
+
+/* Styles pour les champs du formulaire */
+label {
+    display: block;
+    margin-bottom: 8px;
+    
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Styles pour le bouton Envoyer */
+input[type="submit"] {
+    background-color: #2C4A98;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #2C4A98;
+}
+
+/* Styles pour le bouton Réinitiliser */
+
+input[type="reset"] {
+  background-color: #2C4A98;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+input[type="reset"]:hover {
+  border-radius: 10px;
+}
+
+#phrase{
+  margin-bottom: 16px;
+  text-align: center; 
+}
+
+#radio1{
+  margin-bottom: 16px; 
+  text-align: center; 
+}
+
+#radio2{
+  margin-bottom: 16px; 
+  text-align: center; 
+}
+
+#album{
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+/* Style pour les champs obligatoires */
+.span2 {
+  color: #af0808;
+
+/* footer */
+footer {position: absolute; bottom: 0;}
+
+}
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+ 
+
+
+
+  
+
+  
+
+
+
+
+
+  
+
+  
+
+  
+
+   */

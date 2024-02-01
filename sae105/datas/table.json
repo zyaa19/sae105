@@ -1,0 +1,356 @@
+[
+  
+
+  {
+    "nom": "Sauerbraten",
+    "pays_origine": "Allemagne",
+    "temps_preparation": "2 heures",
+    "difficulte": "Difficile",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Kartoffelsalat",
+    "pays_origine": "Allemagne",
+    "temps_preparation": "30 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Accompagnement"
+  },
+  {
+    "nom": "Bratwurst mit Sauerkraut",
+    "pays_origine": "Allemagne",
+    "temps_preparation": "45 minutes",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Apfelstrudel",
+    "pays_origine": "Allemagne",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Dessert"
+  },
+  {
+    "nom": "Kartoffelsuppe",
+    "pays_origine": "Allemagne",
+    "temps_preparation": "40 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Soupe"
+  },
+
+  {
+    "nom": "Königsberger Klopse",
+    "pays_origine": "Allemagne",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Brezen (Bretzels)",
+    "pays_origine": "Allemagne",
+    "temps_preparation": "2 heures",
+    "difficulte": "Difficile",
+    "type_plat": "Apéritif"
+  },
+  {
+    "nom": "Maultaschen",
+    "pays_origine": "Allemagne",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Rouladen",
+    "pays_origine": "Allemagne",
+    "temps_preparation": "1 heure",
+    "difficulte": "Difficile",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Kaiserschmarrn",
+    "pays_origine": "Allemagne",
+    "temps_preparation": "30 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Dessert"
+  },
+  {
+    "nom": "Sushi",
+    "pays_origine": "Japon",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Ramen",
+    "pays_origine": "Japon",
+    "temps_preparation": "2 heures",
+    "difficulte": "Difficile",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Tempura",
+    "pays_origine": "Japon",
+    "temps_preparation": "45 minutes",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Miso soup",
+    "pays_origine": "Japon",
+    "temps_preparation": "30 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Soupe"
+  },
+  {
+    "nom": "Matcha Roll Cake",
+    "pays_origine": "Japon",
+    "temps_preparation": "40 minutes",
+    "difficulte": "Moyenne",
+    "type_plat": "Dessert"
+  },
+  {
+    "nom": "Okonomiyaki",
+    "pays_origine": "Japon",
+    "temps_preparation": "45 minutes",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Yakitori",
+    "pays_origine": "Japon",
+    "temps_preparation": "30 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Apéritif"
+  },
+  {
+    "nom": "Chawanmushi",
+    "pays_origine": "Japon",
+    "temps_preparation": "40 minutes",
+    "difficulte": "Moyenne",
+    "type_plat": "Entrée"
+  },
+  {
+    "nom": "Katsudon",
+    "pays_origine": "Japon",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Anmitsu",
+    "pays_origine": "Japon",
+    "temps_preparation": "25 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Dessert"
+  },
+  {
+    "nom": "Moussaka",
+    "pays_origine": "Grèce",
+    "temps_preparation": "2 heures",
+    "difficulte": "Difficile",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Tzatziki",
+    "pays_origine": "Grèce",
+    "temps_preparation": "15 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Apéritif"
+  },
+  {
+    "nom": "Souvlaki",
+    "pays_origine": "Grèce",
+    "temps_preparation": "30 minutes",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Dolma",
+    "pays_origine": "Grèce",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Entrée"
+  },
+  {
+    "nom": "Galaktoboureko",
+    "pays_origine": "Grèce",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Dessert"
+  },
+  {
+    "nom": "Ayimolou",
+    "pays_origine": "Bénin",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Amiwo",
+    "pays_origine": "Bénin",
+    "temps_preparation": "45 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Galette de maïs",
+    "pays_origine": "Bénin",
+    "temps_preparation": "30 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Accompagnement"
+  },
+  {
+    "nom": "Sauce Gombo",
+    "pays_origine": "Bénin",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Sauce"
+  },
+  {
+    "nom": "Papillon de plantain",
+    "pays_origine": "Bénin",
+    "temps_preparation": "30 minutes",
+    "difficulte": "Facile",
+    "type_plat": "En-cas"
+  },
+  {
+    "nom": "Ajiaco",
+    "pays_origine": "Colombie",
+    "temps_preparation": "2 heures",
+    "difficulte": "Moyenne",
+    "type_plat": "Soupe"
+  },
+  {
+    "nom": "Bandeja Paisa",
+    "pays_origine": "Colombie",
+    "temps_preparation": "1 heure",
+    "difficulte": "Difficile",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Arepa",
+    "pays_origine": "Colombie",
+    "temps_preparation": "30 minutes",
+    "difficulte": "Facile",
+    "type_plat": "En-cas"
+  },
+  {
+    "nom": "Empanadas",
+    "pays_origine": "Colombie",
+    "temps_preparation": "45 minutes",
+    "difficulte": "Moyenne",
+    "type_plat": "En-cas"
+  },
+  {
+    "nom": "Postre de Natas",
+    "pays_origine": "Colombie",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Dessert"
+  },
+  {
+    "nom": "Koshari",
+    "pays_origine": "Égypte",
+    "temps_preparation": "1 heure",
+    "difficulte": "Facile",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Foul Medames",
+    "pays_origine": "Égypte",
+    "temps_preparation": "12 heures (trempage des fèves)",
+    "difficulte": "Facile",
+    "type_plat": "Petit déjeuner"
+  },
+  {
+    "nom": "Molokhia",
+    "pays_origine": "Égypte",
+    "temps_preparation": "45 minutes",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Hawawshi",
+    "pays_origine": "Égypte",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Sandwich"
+  },
+  {
+    "nom": "Basbousa",
+    "pays_origine": "Égypte",
+    "temps_preparation": "45 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Dessert"
+  },
+  {
+    "nom": "Couscous aux sept légumes",
+    "pays_origine": "Maroc",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Tagine de poulet aux olives et citrons confits",
+    "pays_origine": "Maroc",
+    "temps_preparation": "2 heures",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Pastilla au poulet",
+    "pays_origine": "Maroc",
+    "temps_preparation": "1 heure",
+    "difficulte": "Difficile",
+    "type_plat": "Entrée"
+  },
+  {
+    "nom": "Harira",
+    "pays_origine": "Maroc",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Soupe"
+  },
+  {
+    "nom": "Cornes de gazelle",
+    "pays_origine": "Maroc",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Dessert"
+  },
+  {
+    "nom": "Pavlova",
+    "pays_origine": "Nouvelle-Zélande",
+    "temps_preparation": "30 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Dessert"
+  },
+  {
+    "nom": "Hangi",
+    "pays_origine": "Nouvelle-Zélande",
+    "temps_preparation": "4 heures",
+    "difficulte": "Difficile",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Fish and Chips",
+    "pays_origine": "Nouvelle-Zélande",
+    "temps_preparation": "30 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Pies au mouton",
+    "pays_origine": "Nouvelle-Zélande",
+    "temps_preparation": "1 heure",
+    "difficulte": "Moyenne",
+    "type_plat": "Plat principal"
+  },
+  {
+    "nom": "Afghans",
+    "pays_origine": "Nouvelle-Zélande",
+    "temps_preparation": "20 minutes",
+    "difficulte": "Facile",
+    "type_plat": "Dessert"
+  }
+]
+
